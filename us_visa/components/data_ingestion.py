@@ -1,3 +1,4 @@
+#getting the data from the database
 import os
 import sys
 
