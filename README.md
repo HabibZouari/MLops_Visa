@@ -40,6 +40,8 @@ pip install -r requirements.txt
 
 
 
+717279687805.dkr.ecr.us-east-1.amazonaws.com/visa-deploy
+
 ## Export the environment variable
 
 export MONGODB_URL="mongodb+srv://<username>:<password>...."
